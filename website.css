@@ -18,8 +18,8 @@
 
 .home-image {
     display: flex;
-    width: 75vh;
-    height:50vh;
+    /* width: 75vh; */
+    height:400px;
 }
 
 .logo a {
